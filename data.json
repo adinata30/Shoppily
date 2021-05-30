@@ -1,76 +1,76 @@
 [
 	{
-		"id":"SO001",
+		"id":1,
 		"name":"Pizza Bar",
 		"type":"Restaurant",
 		"latitude":-6.142449,
 		"longitude":106.746670
 	},
 	{
-		"id":"SO002",
+		"id":2,
 		"name":"Zen Steak",
 		"type":"Restaurant",
 		"latitude":-6.203548, 
 		"longitude":106.638272
 	},
 	{
-		"id":"SO003",
+		"id":3,
 		"name":"Fright Night",
 		"type":"Entertainment",
 		"latitude":-6.326890,
 		"longitude":106.808648
 	},
 	{
-		"id":"SO004",
+		"id":4,
 		"name":"Meat Grill",
 		"type":"Restaurant",
 		"latitude":-6.142449,
 		"longitude":106.746670
 	},
 	{
-		"id":"SO005",
+		"id":5,
 		"name":"Fun Zone",
 		"type":"Entertainment",
 		"latitude":-6.256683, 
 		"longitude":106.861317
 	},
 	{
-		"id":"SO006",
+		"id":6,
 		"name":"Kids World",
 		"type":"Entertainment",
 		"latitude":-6.222590, 
 		"longitude":106.784151
 	},
 	{
-		"id":"SO007",
+		"id":7,
 		"name":"Fantasy World",
 		"type":"Entertainment",
 		"latitude":-6.164393, 
 		"longitude":106.873278
 	},
 	{
-		"id":"SO008",
+		"id":8,
 		"name":"Oppa BBQ Grill",
 		"type":"Restaurant",
 		"latitude":-6.153433, 
 		"longitude":106.789581
 	},
 	{
-		"id":"SO009",
+		"id":9,
 		"name":"Via's Boutique",
 		"type":"Fashion",
 		"latitude":-6.195648, 
 		"longitude":106.739770
 	},
 	{
-		"id":"SO010",
+		"id":10,
 		"name":"Gita Pet Shop",
 		"type":"Pet Shop",
 		"latitude":-6.308609, 
 		"longitude":106.805824
 	},
 	{
-		"id":"SO011",
+		"id":11,
 		"name":"Sports World",
 		"type":"Sports",
 		"latitude":-6.138226, 
